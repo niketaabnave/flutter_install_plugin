@@ -1,17 +1,17 @@
-# install_plugin
+# update_install_plugin
 
 [![Build Status](https://travis-ci.org/hui-z/flutter_install_plugin.svg?branch=master)](https://travis-ci.org/hui-z/flutter_install_plugin#)
-[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dartlang.org/packages/install_plugin)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/hui-z/flutter_install_plugin/blob/master/LICENSE)
+[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dev/packages/update_install_plugin)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/niketaabnave/flutter_install_plugin/blob/master/LICENSE)
 
-We use the `install_plugin` plugin to install apk for android; and using url to go to app store for iOS.
+We use the `update_install_plugin` plugin to install apk for android; and using url to go to app store for iOS.
 
 ## Usage
 
-To use this plugin, add `install_plugin` as a dependency in your pubspec.yaml file. For example:
+To use this plugin, add `update_install_plugin` as a dependency in your pubspec.yaml file. For example:
 ```yaml
 dependencies:
-  install_plugin: '^2.1.0'
+  update_install_plugin: '^1.0.0'
 ```
 
 ## iOS
