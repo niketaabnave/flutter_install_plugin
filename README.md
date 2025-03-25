@@ -1,7 +1,7 @@
 # update_install_plugin
 
 [![Build Status](https://travis-ci.org/hui-z/flutter_install_plugin.svg?branch=master)](https://travis-ci.org/hui-z/flutter_install_plugin#)
-[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dev/packages/update_install_plugin)
+[![pub package](https://img.shields.io/pub/v/update_install_plugin.svg)](https://pub.dev/packages/update_install_plugin)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/niketaabnave/flutter_install_plugin/blob/master/LICENSE)
 
 We use the `update_install_plugin` plugin to install apk for android; and using url to go to app store for iOS.
