@@ -11,7 +11,7 @@ We use the `update_install_plugin` plugin to install apk for android; and using 
 To use this plugin, add `update_install_plugin` as a dependency in your pubspec.yaml file. For example:
 ```yaml
 dependencies:
-  update_install_plugin: '^2.1.0'
+  update_install_plugin: '^1.0.0'
 ```
 
 ## iOS
