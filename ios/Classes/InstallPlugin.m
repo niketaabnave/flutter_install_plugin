@@ -1,5 +1,5 @@
 #import "InstallPlugin.h"
-#import <install_plugin/install_plugin-Swift.h>
+#import <update_install_plugin/update_install_plugin-Swift.h>
 
 @implementation InstallPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
