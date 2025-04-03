@@ -2,6 +2,8 @@ name: update_install_plugin
 description: A flutter plugin for install apk for android; and using url to go to app store for iOS.
 version: 1.0.3
 homepage: https://github.com/niketaabnave/flutter_install_plugin
+repository: https://github.com/niketaabnave/flutter_install_plugin
+issue_tracker: https://github.com/niketaabnave/flutter_install_plugin/issues
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
